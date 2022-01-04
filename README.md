@@ -19,7 +19,11 @@ In order to offer a fast game, the rounds and draws are limited in time, causing
 Made with SFML using C language through a functional programming, compiled with MSVC on Visual Studio.
 
 
-## My part
+### Overview
+[![thumbnail]]()
+
+
+## My contribution
 
 It was the very first project I made in a team, like for everyone too in the team. We were 4 programmers and 6 graphic artists.
 I made some parts of the game state machine like my three other programmer coworkers, but I mainly was in charge of the cards animations in 2D.
@@ -51,6 +55,7 @@ Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where
 
 <!-- MEDIA FILES -------------------------------------------------------------------------------------------->
 [title]: ClockWise_title.jpg
+[thumbnail]: 
 [card_draw]: ClockWise_card_draw.gif
 [card_flip]: ClockWise_card_flip.gif
 
