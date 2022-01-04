@@ -50,7 +50,7 @@ Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where
 
 
 <!-- MEDIA FILES -------------------------------------------------------------------------------------------->
-[title]: ClockWise_title.jpg
+[title]: ClockWise_title.jp
 [card_draw]: ClockWise_card_draw.gif
 [card_flip]: ClockWise_card_flip.gif
 
