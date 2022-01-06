@@ -20,7 +20,7 @@ Made with SFML using C language through a functional programming, compiled with 
 
 
 ### Overview
-[![thumbnail]]()
+[![thumbnail]](https://www.youtube.com)
 
 
 ## My contribution
@@ -55,7 +55,7 @@ Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where
 
 <!-- MEDIA FILES -------------------------------------------------------------------------------------------->
 [title]: ClockWise_title.jpg
-[thumbnail]: 
+[thumbnail]: ClockWise_thumbnail.jpg
 [card_draw]: ClockWise_card_draw.gif
 [card_flip]: ClockWise_card_flip.gif
 
