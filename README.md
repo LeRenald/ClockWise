@@ -25,7 +25,7 @@ Made with SFML using C language through a functional programming, compiled with 
 
 ## My contribution
 
-It was the very first project I made in a team, like for everyone too in the team. We were 4 programmers and 6 graphic artists.
+It was the very first project I made in a team, as it was for everyone in the team. We were 4 programmers and 6 graphic artists.
 I made some parts of the game state machine like my three other programmer coworkers, but I mainly was in charge of the cards animations in 2D.
 Since the animations were a sprite with a succession of its textures, I saved some memory footprint with changing scales over time for the card's animations.
 - card draw : 
