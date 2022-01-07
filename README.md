@@ -20,7 +20,7 @@ Made with SFML using C language through a functional programming, compiled with 
 
 
 ### Overview
-[![thumbnail]](https://www.youtube.com)
+[![thumbnail]](https://www.youtube.com/watch?v=YRR-JEU-Hxw)
 
 
 ## My contribution
