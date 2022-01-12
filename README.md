@@ -16,7 +16,7 @@ In order to offer a fast game, the rounds and draws are limited in time, causing
 
 
 ### Programming
-Made with SFML using C language through a functional programming, compiled with MSVC on Visual Studio.
+Made with CSFML (C language) through a functional programming, compiled with MSVC on Visual Studio.
 
 
 ### Overview
