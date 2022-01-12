@@ -2,7 +2,7 @@
 ![title]
 
 ### Concept
-ClockWise is a school project produced during one month in a team of 10 students. The objective was to create a 2D board game.
+***ClockWise*** is a school project produced during one month in a team of 10 students. The objective was to create a 2D board game.
 The game is a card board game for two players that is played locally in versus, using the same keyboard.
 
 
