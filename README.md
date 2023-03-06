@@ -37,7 +37,7 @@ Since the animations were a sprite with a succession of its textures, I saved so
 
 ## Credits
 
-Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where this poject was carried out with my 9 other coworkers :
+Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where this project was carried out with my 9 other coworkers :
 
 #### Graphic artists
 - Thomas DAO
